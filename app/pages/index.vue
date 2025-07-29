@@ -5,6 +5,6 @@
 </template>
 <script setup>
     const sanity = useSanity()
-    
+    console.log('sanity instance',sanity)
 </script>
 
