@@ -4,7 +4,7 @@
     </div>
 </template>
 <script setup>
-    // const sanity = useSanity()
+    const sanity = useSanity()
     
 </script>
 
